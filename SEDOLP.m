@@ -6,7 +6,8 @@ Print[StyleForm["PACKAGE:","Section",FontSize->14],StyleForm[" SEDOLP ","Section
 Print[StyleForm["Por: Mat. \[CapitalOAcute]scar Iv\[AAcute]n de Jes\[UAcute]s Mungu\[IAcute]a y Dr. Jorge Ch\[AAcute]vez Carlos, (2019)","Section",FontSize->12]]
 Print[StyleForm["=====================================================","Section",FontSize->14]]
 Print[StyleForm["Link de descarga:","Section",FontSize->10]]
-Print["https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022209"]
+Print["https://raw.githubusercontent.com/NuclearGeorge/Notas_EDO_Lineales/\
+master/SEDOLP.m"]
 Print[StyleForm["Este paquete adquiere resuelve: Sistemas de Ecuaciones Diferenciales Ordinarias Lineales Planas, de la forma:","Section",FontSize->12]]
 Print[StyleForm["\!\(\*SubscriptBox[\(x\), \(1\)]\)'= a \!\(\*SubscriptBox[\(x\), \(1\)]\) + b \!\(\*SubscriptBox[\(x\), \(2\)]\),  \!\(\*SubscriptBox[\(x\), \(2\)]\)' = c \!\(\*SubscriptBox[\(x\), \(1\)]\) + d \!\(\*SubscriptBox[\(x\), \(2\)]\),  o escrita en forma matricial:","Section",FontSize->12]] 
 Print[StyleForm["\!\(\*OverscriptBox[\(x\), \(_\)]\)' =  \!\(\*TagBox[\((\[NoBreak]\*GridBox[{
