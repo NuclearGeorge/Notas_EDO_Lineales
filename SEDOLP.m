@@ -5,8 +5,9 @@ Print[StyleForm["=====================================================","Section
 Print[StyleForm["PACKAGE:","Section",FontSize->14],StyleForm[" SEDOLP ","Section",FontSize->14] ]
 Print[StyleForm["Por: Mat. \[CapitalOAcute]scar Iv\[AAcute]n de Jes\[UAcute]s Mungu\[IAcute]a y Dr. Jorge Ch\[AAcute]vez Carlos, (2019)","Section",FontSize->12]]
 Print[StyleForm["=====================================================","Section",FontSize->14]]
-Print[StyleForm["Link de descarga:","Section",FontSize->10]]
-Print["https://raw.githubusercontent.com/NuclearGeorge/Notas_EDO_Lineales/\
+Print[StyleForm["Link de Notas y descarga:","Section",FontSize->10]]
+Print["Notas y ejemplos: https://github.com/NuclearGeorge/Notas_EDO_Lineales"]
+Print["Descarga: https://raw.githubusercontent.com/NuclearGeorge/Notas_EDO_Lineales/\
 master/SEDOLP.m"]
 Print[StyleForm["Este paquete adquiere resuelve: Sistemas de Ecuaciones Diferenciales Ordinarias Lineales Planas, de la forma:","Section",FontSize->12]]
 Print[StyleForm["\!\(\*SubscriptBox[\(x\), \(1\)]\)'= a \!\(\*SubscriptBox[\(x\), \(1\)]\) + b \!\(\*SubscriptBox[\(x\), \(2\)]\),  \!\(\*SubscriptBox[\(x\), \(2\)]\)' = c \!\(\*SubscriptBox[\(x\), \(1\)]\) + d \!\(\*SubscriptBox[\(x\), \(2\)]\),  o escrita en forma matricial:","Section",FontSize->12]] 
