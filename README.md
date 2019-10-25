@@ -1,5 +1,5 @@
-# NOTAS SOBRE SISTEMAS DEECUACIONES DIFERENCIALES DEPRIMER ORDEN Y SU AN ́ALISIS ENMATHEMATICA
-En esta liga, se encontrarán la paquetería SEDOLP.m y su respectivi instructivo de uso.
+# NOTAS SOBRE SISTEMAS DE ECUACIONES DIFERENCIALES DE PRIMER ORDEN Y SU ANÁLISIS EN MATHEMATICA
+En esta liga, se encontrarán la paquetería SEDOLP.m y su respectivo instructivo de uso.
 
 Adicionalmente también están disponibles ejercicios desarrollados en las notas del Mat. Oscar Ivan de Jesús Munguía en la carpeta EJEMPLOS 
 
